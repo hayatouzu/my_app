@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header></Header>
+    <Header>天気予報アプリ(test)</Header>
     <section id="city-lists" class="section">
       <div class="container">
         <h1>日本全国の天気</h1>
